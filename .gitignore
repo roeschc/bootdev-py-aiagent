@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -206,6 +204,7 @@ cython_debug/
 # Marimo
 marimo/_static/
 marimo/_lsp/
+<<<<<<< HEAD
 __marimo__/
 =======
 # Python-generated files
@@ -422,3 +421,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 >>>>>>> 7b81f0a (updated git ignore)
+=======
+__marimo__/
+>>>>>>> 7b81f0afcf42e373cb98c5414001b801336d0cdf
